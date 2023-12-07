@@ -19,6 +19,8 @@
 - Folders Names: kebab-case ?
 - Variables Names: camelCase && declarative variables/function ex: firstName || loginHandler || 
 - Prettier Config
+- line lenght characters -> Chat GPT told me is important
+
 
 
 ## First Questions
